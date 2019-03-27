@@ -1,12 +1,10 @@
 ## Welcome to zhandyg Pages
 
-You can use the [editor on GitHub](https://github.com/zhandyg/information/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is some of the notes I have summarized while using and learning some software and knowledge such as seismology and python, which is easy to read and query.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Python
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python notes include notes and examples for modules such as Obspy, matplotilab, and numpy
 
 ```markdown
 Syntax highlighted code block

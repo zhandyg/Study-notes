@@ -25,5 +25,5 @@ List of notes
 
 ```
 
-[翟浩请点击进入](https://zhandyg.github.io/Study-notes/joke.html)
+[翟浩请点击进入](https://zhandyg.github.io/Study-notes/joke1.html)
 

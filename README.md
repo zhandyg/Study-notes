@@ -6,16 +6,16 @@ This is some of the notes I have summarized while using and learning some softwa
 
 Python notes include notes and examples for modules such as Obspy, matplotilab, and numpy
 
-#### Obspy
-#### Numpy
-#### Matplotlab
+#### [Obspy]
+#### [Numpy]
+#### [Matplotlab]
 
 ```markdown
 List of notes
 
-# Obspy
-# Numpy
-# Matplotlab
+# [Obspy]
+# [Numpy]
+# [Matplotlab]
 
 ```
 ### Seismology software

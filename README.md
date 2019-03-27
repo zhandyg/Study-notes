@@ -1,4 +1,4 @@
-## Welcome to zhandyg Pages
+## Welcome to my study notes Pages
 
 This is some of the notes I have summarized while using and learning some software and knowledge such as seismology and python, which is easy to read and query.
 
@@ -7,29 +7,21 @@ This is some of the notes I have summarized while using and learning some softwa
 Python notes include notes and examples for modules such as Obspy, matplotilab, and numpy
 
 ```markdown
-Syntax highlighted code block
+List of notes
 
-# Header 1
-## Header 2
-### Header 3
+# Obspy
+# Numpy
+# Matplotlab
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Seismology software
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhandyg/information/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
 
+```
 ### Other study notes
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+
+```
+

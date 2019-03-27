@@ -22,6 +22,8 @@ List of notes
 ### Other study notes
 
 ```markdown
-[翟浩请点击进入](https://zhandyg.github.io/Study-notes/joke.html)
+
 ```
+
+[翟浩请点击进入](https://zhandyg.github.io/Study-notes/joke.html)
 
